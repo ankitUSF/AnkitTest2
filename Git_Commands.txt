@@ -1,0 +1,25 @@
+git clone
+
+
+git status
+
+
+git add A file.extension
+
+
+git commit -m "message here"
+
+
+git push
+
+
+git pull
+
+
+git commit
+esc + :wq
+
+************For configuring Email and Username************
+
+git config --global user.email "EmailId"
+git confog --global user.name "GitRepositoryusername"
